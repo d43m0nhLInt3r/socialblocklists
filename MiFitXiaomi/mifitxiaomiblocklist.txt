@@ -1,3 +1,11 @@
+# This blocklist blocks the MiFit / Xiaomi traffic
+#
+# Date: 2 June 2019 20:00:57 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/socialblocklists/master/MiFitXiaomi/mifitxiaomiblocklist.txt
+# Project home page: https://github.com/evpn/socialblocklists/
+# ===============================================================
+
+
 10.237.12.17
 10.99.168.145
 apiinit.amap.com
