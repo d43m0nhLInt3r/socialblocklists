@@ -1,3 +1,11 @@
+# This blocklist blocks the Android Tracking traffic
+#
+# Date: 2 June 2019 20:00:57 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/socialblocklists/master/Android/androidblocklist.txt
+# Project home page: https://github.com/evpn/socialblocklists/
+# ===============================================================
+
+
 # Created with:
 
 # LineageOS 14.1
