@@ -1,3 +1,10 @@
+# This blocklist blocks the Adobe traffic
+#
+# Date: 2 June 2019 16:45:57 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/socialblocklists/master/Adobe/adobeblocklist.txt
+# Project home page: https://github.com/evpn/socialblocklists/
+# ===============================================================
+
 192.150.14.69
 192.150.18.101
 192.150.18.108
