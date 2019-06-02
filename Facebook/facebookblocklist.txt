@@ -1,6 +1,9 @@
-
-
-https://github.com/imkarthikk/pihole-facebook
+# This blocklist blocks the Facebook traffic
+#
+# Date: 2 June 2019 20:00:57 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/socialblocklists/master/Facebook/facebookblocklist.txt
+# Project home page: https://github.com/evpn/socialblocklists/
+# ===============================================================
 
 
 
