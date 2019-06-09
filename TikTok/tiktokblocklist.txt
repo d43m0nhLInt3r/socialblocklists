@@ -93,6 +93,40 @@ api31.tiktokv.com
 
 s16.tiktokcdn.com
 
+api2-16-h2.musical.ly
+
+api2-19-h2.musical.ly
+
+api2-h2.musical.ly
+
+abtest-va-tiktok.byteoversea.com
+
+frontier.musical.ly
+
+gecko-va.musical.ly
+
+ib.snssdk.com
+
+is1-ssl.mzstatic.com
+
+is5-ssl.mzstatic.com
+
+p16-sg.muscdn.com
+
+p16.hypstarcdn.com
+
+p16.tiktokcdn.com
+
+sf-tb-sg.ibytedtos.com
+
+v16.muscdn.com
+
+www.tiktok.com
+
+www.tiktok.org
+
+xlog-va.musical.ly
+
 
 # ===============================================================
 
