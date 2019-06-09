@@ -49,7 +49,7 @@ Pictures are coming...
 ## Running the tests
 
 Once you installed your Software successfully and added a blocklist of your choice just go to a URL which should be blocked.
-You should see a warning or the website could not be reached. If its the case then you added the blocklist successfully and your Software is working.
+You should see a warning or the website could not be reached message. If its the case then you added the blocklist successfully and your Software is working.
 
 
 ## Authors
