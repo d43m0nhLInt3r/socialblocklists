@@ -73,7 +73,7 @@ This program is free software: you can redistribute it and/or modify
 
 ## Important Information
 
-* The TikTok,SmartTV,AndroidApp and Snapchat blocklists are maintained by me.
+* The TikTok,SmartTV,AndroidApp,WhatsApp and Snapchat blocklists are maintained by me.
 * The other blocklists are mixed/cloned by a few popular blocklists and I dont give any warranty to the blocklists which are not maintained by me.
 
 
