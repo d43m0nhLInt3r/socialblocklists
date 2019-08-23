@@ -27,3 +27,21 @@ usc.adserver.snapads.com
 
 app-analytics.snapchat.com
 
+app.snapchat.com
+
+aws.api.snapchat.com
+
+cf-st.sc-cdn.net
+
+chat-gateway-prod.chat.snapchat.com
+
+gtq.sct.sc-prod.ne
+
+tib.snssdk.com
+
+loca.sc-jpl.com
+
+mvm.snapchat.com
+
+us-central1-gcp.api.snapchat.com
+
