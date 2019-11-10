@@ -5,128 +5,85 @@
 # Project home page: https://github.com/evpn/tiktokblocklist/
 # ===============================================================
 
-api-h2.tiktokv.com
-
-api.tiktokv.com
-
-api21-h2.tiktokv.com
-
-ib.tiktokv.com
-
-m.tiktok.com
-
-ns-1475.awsdns-56.org
-
-ns-1574.awsdns-04.co.uk
-
-ns-440.awsdns-55.com
-
-ns-722.awsdns-26.net
-
-p16-tiktokcdn-com.akamaized.net
-
-t.tiktok.com
-
-tiktok.com
-
-tiktok.org
-
-tiktokcdn-com.akamaized.net
-
-tiktokcdn.com
-
-tiktokv.com
-
-v16-tiktokcdn-com.akamaized.net
-
-v16.tiktokcdn.com
-
-vt.tiktok.com
-
-v19.tiktokcdn.com
-
-v16.tiktokcdn.com
-
-api.tiktokv.com
-
-api-h2.tiktokv.com
-
-api21-h2.tiktokv.com
-
-mon.tiktokv.com
-
-ib.tiktokv.com
-
-p16-tiktokcdn-com.akamaized.net
-
-v16-tiktokcdn-com.akamaized.net
-
-api2.musical.ly
-
-isl1-ssl.mzstatic.com
-
-isl2-ssl.mzstatic.com
-
-isl3-ssl.mzstatic.com
-
-isl4-ssl.mzstatic.com
-
-log2.musical.ly
-
-mon.byteoversea.com
-
-mon.musical.ly
-
-mphw-suse1.muscdn.com
-
-p16.muscdn.com
-
-v19.muscdn.com
-
-v21.muscdn.com
-
-xlog-va.musically.ly
-
-mon-va.byteoversea.com
-
-api31.tiktokv.com
-
-s16.tiktokcdn.com
-
-api2-16-h2.musical.ly
-
-api2-19-h2.musical.ly
-
-api2-h2.musical.ly
-
-abtest-va-tiktok.byteoversea.com
-
-frontier.musical.ly
-
-gecko-va.musical.ly
-
-ib.snssdk.com
-
-is1-ssl.mzstatic.com
-
-is5-ssl.mzstatic.com
-
-p16-sg.muscdn.com
-
-p16.hypstarcdn.com
-
-p16.tiktokcdn.com
-
-sf-tb-sg.ibytedtos.com
-
-v16.muscdn.com
-
-www.tiktok.com
-
-www.tiktok.org
-
-xlog-va.musical.ly
-
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 api21-h2.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 ns-1475.awsdns-56.org
+0.0.0.0 ns-1574.awsdns-04.co.uk
+0.0.0.0 ns-440.awsdns-55.com
+0.0.0.0 ns-722.awsdns-26.net
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 t.tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.org
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 vt.tiktok.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 api21-h2.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 api2.musical.ly
+0.0.0.0 isl1-ssl.mzstatic.com
+0.0.0.0 isl2-ssl.mzstatic.com
+0.0.0.0 isl3-ssl.mzstatic.com
+0.0.0.0 isl4-ssl.mzstatic.com
+0.0.0.0 log2.musical.ly
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon.musical.ly
+0.0.0.0 mphw-suse1.muscdn.com
+0.0.0.0 p16.muscdn.com
+0.0.0.0 v19.muscdn.com
+0.0.0.0 v21.muscdn.com
+0.0.0.0 xlog-va.musically.ly
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 api31.tiktokv.com
+0.0.0.0 s16.tiktokcdn.com
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2-19-h2.musical.ly
+0.0.0.0 api2-h2.musical.ly
+0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 frontier.musical.ly
+0.0.0.0 gecko-va.musical.ly
+0.0.0.0 ib.snssdk.com
+0.0.0.0 is1-ssl.mzstatic.com
+0.0.0.0 is5-ssl.mzstatic.com
+0.0.0.0 p16-sg.muscdn.com
+0.0.0.0 p16.hypstarcdn.com
+0.0.0.0 p16.tiktokcdn.com
+0.0.0.0 sf-tb-sg.ibytedtos.com
+0.0.0.0 v16.muscdn.com
+0.0.0.0 xlog-va.musical.ly
+0.0.0.0 api2-19.musical.ly
+0.0.0.0 api2-t2.musical.ly
+0.0.0.0 v21.muscdn.com
+0.0.0.0 p16.muscdn.com
+0.0.0.0 frontier.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 applog.musical.ly
+0.0.0.0 ichannel.musical.ly
+0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 dm-maliva16.byteoversea.com
+0.0.0.0 muscdn.com
+0.0.0.0 musical.ly
+0.0.0.0 www.musical.ly
+0.0.0.0 v19.muscdn.com
+0.0.0.0 dm.bytedance.com
+0.0.0.0 sgali3.l.byteoversea.net
+0.0.0.0 v16.muscdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 sf16-muse-va.ibytedtos.com
+0.0.0.0 ibytedtos.com
 
 # ===============================================================
 
