@@ -54,7 +54,7 @@ You should see a warning or the website could not be reached message. If its the
 
 ## Authors
 
-* **evpne** - *Initial work* - (https://github.com/evpne)
+* **d43m0nhLInt3r** - *Initial work* - (https://github.com/d43m0nhLInt3r)
 
 ## License
 
