@@ -34,10 +34,6 @@
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 api2.musical.ly
-0.0.0.0 isl1-ssl.mzstatic.com
-0.0.0.0 isl2-ssl.mzstatic.com
-0.0.0.0 isl3-ssl.mzstatic.com
-0.0.0.0 isl4-ssl.mzstatic.com
 0.0.0.0 log2.musical.ly
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.musical.ly
@@ -56,8 +52,6 @@
 0.0.0.0 frontier.musical.ly
 0.0.0.0 gecko-va.musical.ly
 0.0.0.0 ib.snssdk.com
-0.0.0.0 is1-ssl.mzstatic.com
-0.0.0.0 is5-ssl.mzstatic.com
 0.0.0.0 p16-sg.muscdn.com
 0.0.0.0 p16.hypstarcdn.com
 0.0.0.0 p16.tiktokcdn.com
