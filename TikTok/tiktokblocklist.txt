@@ -1,8 +1,8 @@
 # This blocklist blocks the Tik Tok traffic
 #
 # Date: 9 June 2019 20:38:57 (UTC)
-# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/tiktokblocklist/master/tiktokblocklist.txt
-# Project home page: https://github.com/evpn/tiktokblocklist/
+# Fetch the latest version of this file: https://github.com/d43m0nhLInt3r/socialblocklists/edit/master/TikTok/tiktokblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
 
 0.0.0.0 api-h2.tiktokv.com
@@ -10,10 +10,6 @@
 0.0.0.0 api21-h2.tiktokv.com
 0.0.0.0 ib.tiktokv.com
 0.0.0.0 m.tiktok.com
-0.0.0.0 ns-1475.awsdns-56.org
-0.0.0.0 ns-1574.awsdns-04.co.uk
-0.0.0.0 ns-440.awsdns-55.com
-0.0.0.0 ns-722.awsdns-26.net
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 t.tiktok.com
 0.0.0.0 tiktok.com
@@ -78,16 +74,6 @@
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 ibytedtos.com
-
-https://sf-tb-sg.ibytedtos.com/obj/ttfe-malisg/tiktok_web/
-https://sf-tb-sg.ibytedtos.com/img/ttfe-malisg/tiktok_web/
-https://s16.tiktokcdn.com
-https://sf-tb-sg.ibytedtos.com/obj/ttfe-malisg/tiktok/
-https://mon-va.byteoversea.com
-https://www.tiktok.com
-https://v19.muscdn.com
-https://p16.muscdn.com
-https://m.tiktok.com
 
 # ===============================================================
 
