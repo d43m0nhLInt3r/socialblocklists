@@ -79,6 +79,16 @@
 0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 ibytedtos.com
 
+https://sf-tb-sg.ibytedtos.com/obj/ttfe-malisg/tiktok_web/
+https://sf-tb-sg.ibytedtos.com/img/ttfe-malisg/tiktok_web/
+https://s16.tiktokcdn.com
+https://sf-tb-sg.ibytedtos.com/obj/ttfe-malisg/tiktok/
+https://mon-va.byteoversea.com
+https://www.tiktok.com
+https://v19.muscdn.com
+https://p16.muscdn.com
+https://m.tiktok.com
+
 # ===============================================================
 
 (^|\.)muscdn\.com$
