@@ -1,7 +1,7 @@
 # This blocklist blocks the Tik Tok traffic
 #
 # Date: 10 April 2020 00:53:00 (UTC)
-# Fetch the latest version of this file: https://github.com/d43m0nhLInt3r/socialblocklists/edit/master/TikTok/tiktokblocklist.txt
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
 

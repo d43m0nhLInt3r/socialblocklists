@@ -1,3 +1,11 @@
+# This blocklist blocks Skype Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Skype/skypeblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+
 people.skype.com 
 pnv.skype.com 
 browser.pipe.aris.microsoft.com 

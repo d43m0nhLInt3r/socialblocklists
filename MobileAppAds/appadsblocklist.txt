@@ -1,8 +1,8 @@
-# This blocklist blocks the Mobile App Ads traffic
+# This blocklist blocks Mobile App Ads Traffic
 #
-# Date: 2 June 2019 20:00:57 (UTC)
-# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/socialblocklists/master/MobileAppsAds/appadsblocklist.txt
-# Project home page: https://github.com/evpn/socialblocklists/
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
 
 

@@ -1,9 +1,18 @@
+# This blocklist blocks Snapchat Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Snapchat/snapchatblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+
 # Snapchat Chat
 0.0.0.0 chat-gateway-prod.chat.snapchat.com
 
 # Snapchat Website
 0.0.0.0 www.snapchat.com
 0.0.0.0 snapchat.com
+0.0.0.0 snap.com
 
 # Snapchat App
 0.0.0.0 feelinsonice-mvm.l.google.com

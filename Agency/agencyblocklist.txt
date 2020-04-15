@@ -1,3 +1,10 @@
+# This blocklist blocks Agency Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Agency/agencyblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
 # NSABlocklist begins here
 mail.a-1.net.cn
 axil.eureka.lk
