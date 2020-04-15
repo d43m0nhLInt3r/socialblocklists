@@ -1,0 +1,84 @@
+# This blocklist blocks Snapchat Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Snapchat/snapchatblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+
+# Snapchat Chat
+0.0.0.0 chat-gateway-prod.chat.snapchat.com
+
+# Snapchat Website
+0.0.0.0 www.snapchat.com
+0.0.0.0 snapchat.com
+0.0.0.0 snap.com
+
+# Snapchat App
+0.0.0.0 feelinsonice-mvm.l.google.com
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 mvm.snapchat.com
+
+# Snapchat Login
+0.0.0.0 pro-accounts.snapchat.com
+0.0.0.0 auth.snapchat.com
+
+# Snapkit
+0.0.0.0 api.snapkit.com
+
+# Other
+0.0.0.0 sc-cdn.net
+0.0.0.0 gcs.sc-cdn.net
+0.0.0.0 jaguar-prod.snapchat.com
+0.0.0.0 st.sc-jpl.com
+0.0.0.0 gtq.sct.sc-prod.net
+0.0.0.0 am-prod.sc-jpl.com
+0.0.0.0 s.sc-cdn.net
+0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 images.bitmoji.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 api.snapchat.com
+0.0.0.0 us-east1-aws.api.sc-gw.com
+0.0.0.0 snap-storage-cdn.l.google.com
+0.0.0.0 snap.events.mapbox.com
+0.0.0.0 ms.sc-jpl.com
+0.0.0.0 snap.api.mapbox.com
+0.0.0.0 st-lb.sc-jpl.com
+0.0.0.0 loc.sc-jpl.com
+0.0.0.0 cognac-prod.appspot.com
+0.0.0.0 scm.sc-jpl.com
+0.0.0.0 us-central1-gcp.api.sc-gw.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+0.0.0.0 snapchat.appspot.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 feelinsonice.appspot.com
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 feelinsonice.com
+0.0.0.0 feelinsonice.appspot.com
+0.0.0.0 appspot.l.google.com
+0.0.0.0 data.flurry.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 use.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 chat-gateway-prod.chat.snapchat.com
+0.0.0.0 gtq.sct.sc-prod.ne
+0.0.0.0 tib.snssdk.com
+0.0.0.0 loca.sc-jpl.com
+0.0.0.0 mvm.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+
+# Location?
+0.0.0.0 loca.sc-jpl.com
+
+
+
+
