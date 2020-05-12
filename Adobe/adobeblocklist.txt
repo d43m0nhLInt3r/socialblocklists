@@ -16,7 +16,6 @@
 209-34-83-73.ood.opsource.net
 209.34.83.67
 209.34.83.73
-209.34.83.73:443
 3dns-1.adobe.com
 3dns-2.adobe.com
 3dns-3.adobe.com
