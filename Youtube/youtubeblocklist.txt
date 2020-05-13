@@ -1,4 +1,9 @@
-
+# This blocklist blocks Youtube adds
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Youtube/youtubeblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
 
 
 

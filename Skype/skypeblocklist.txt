@@ -1,3 +1,11 @@
+# This blocklist blocks Skype Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Skype/skypeblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
+
 people.skype.com 
 pnv.skype.com 
 browser.pipe.aris.microsoft.com 
@@ -16,12 +24,10 @@ prod.registar.skype.com
 avatar.skype.com 
 login.live.com 
 oneclient.sfx.ms 
-www.bing.com 
 gate.hockeyapp.net 
 relay.skype.com 
 broker.skype.com 
 aka.ms 
-microsoftonline.com 
 broadcast.skype.com 
 infra.lync.com 
 mlccdn.blob.core.windows.net 
@@ -37,3 +43,29 @@ sfbassets.com
 adl.windows.com 
 mobile.pipe.aria.microsoft.com 
 browser.pipe.aria.microsoft.com
+engagementapi.skype.com
+mrrcountries.cdn.skype.com
+msgsearch.skype.com
+avatar.skype.com
+bot-framework.azureedge.net
+api.cc.skype.com
+go.trouter.skype.com
+api.mcr.skype.com
+static-asm.secure.skypeassets.com
+config.edge.skype.com
+options.skype.com
+prod.registrar.skype.com
+api.asm.skype.com
+db5-client-s.gateway.messenger.live.com
+wsapi.skype.com
+static.asm.skype.com
+consumer.entitlement.skype.com
+edge.skype.com
+avatar-service-prod.trafficmanager.net
+trouter-cus-b.trouter.skype.com
+api.aps.skype.com
+people.skype.com
+
+
+skype.com
+www.skype.com

@@ -1,3 +1,10 @@
+# This blocklist blocks SmartTV Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
+
 # This is a blocklist to block smart tv's sending meta data at home.
 # Please help to collect domains!
 # It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.

@@ -1,4 +1,9 @@
-https://github.com/imkarthikk/pihole-facebook
+# This blocklist blocks Whatsapp Traffic
+#
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/WhatsApp/whatsappblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# ===============================================================
 
 # Blocklist for Whatsapp
 
@@ -24,4 +29,13 @@ https://github.com/imkarthikk/pihole-facebook
 0.0.0.0 whatsapp-cdn-shv-01-ord1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-sea1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
-
+0.0.0.0 *.whatsapp.com
+0.0.0.0 *.whatsapp.net
+0.0.0.0 static.whatsapp.net
+0.0.0.0 www-cdn.whatsapp.net
+0.0.0.0 faq.whatsapp.com
+0.0.0.0 blog.whatsapp.com
+0.0.0.0 scontent.whatsapp.net
+0.0.0.0 media-msp1-1.cdn.whatsapp.net
+0.0.0.0 g.whatsapp.net
+0.0.0.0 chat.cdn.whatsapp.net

@@ -1,8 +1,8 @@
 # This blocklist blocks the Adobe traffic
 #
-# Date: 2 June 2019 16:45:57 (UTC)
-# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/socialblocklists/master/Adobe/adobeblocklist.txt
-# Project home page: https://github.com/evpn/socialblocklists/
+# Date: 15 April 2020 13:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Adobe/adobeblocklist.txt
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
 
 192.150.14.69
@@ -12,16 +12,10 @@
 192.150.8.100
 192.150.8.118
 199.7.52.190
-199.7.52.190:80
 199.7.54.72
-199.7.54.72:80
 209-34-83-73.ood.opsource.net
 209.34.83.67
-209.34.83.67:43
-209.34.83.67:443
 209.34.83.73
-209.34.83.73:43
-209.34.83.73:443
 3dns-1.adobe.com
 3dns-2.adobe.com
 3dns-3.adobe.com
