@@ -27,6 +27,8 @@
 0.0.0.0 sgali3.l.byteoversea.net
 0.0.0.0 tiktokcdn-com.akamaized.net
 0.0.0.0 ibytedtos.com
+0.0.0.0 app.musemuse.cn
+0.0.0.0 share.musemuse.cn
 
 # ===============================================================
 
