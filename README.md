@@ -41,7 +41,7 @@ Pi-hole: https://pi-hole.net/    |    https://github.com/pi-hole/pi-hole/wiki/Ge
 And add a list of your choice to your Software/addon
 
 ```
-example: https://raw.githubusercontent.com/evpne/socialblocklists/master/TikTok/tiktokblocklist.txt
+example: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
 ```
 
 Pictures are coming...
