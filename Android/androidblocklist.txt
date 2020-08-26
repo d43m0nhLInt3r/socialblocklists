@@ -13,16 +13,6 @@
 # Android 8 OnePlus
 # iPhone 6
 
-# Facebook
-# disabled facebook due to issues   
-# graph.facebook.com
-# b-graph.facebook.com
-# a-graph.facebook.com
-# graph.instagram.com
-# b-api.facebook.com
-# edge-mqtt.facebook.com
-# mqtt-mini.facebook.com
-
 # Crashlytics
 e.crashlytics.com
 reports.crashlytics.com
