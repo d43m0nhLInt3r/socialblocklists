@@ -25876,7 +25876,6 @@ gff6166tdt2i4fc155zi11.info #Ad blocking investigation
 gfsql.geforce.com #Nvidia
 gfswl.geforce.com #Nvidia
 ggimg.tapas.net
-ghostery.com #Ghostery Enterprise
 gigabytedealz.com #msales
 gigya.com
 gillyhunt.com #Ad Web
