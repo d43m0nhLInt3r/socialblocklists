@@ -265,7 +265,6 @@ clickmngr.com
 clickterra.net
 client-api.matchinguu.com
 client.rave-api.com
-clients1.google.com
 clk1004.com
 clkdeals.com
 clkmon.com
