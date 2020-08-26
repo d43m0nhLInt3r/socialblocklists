@@ -10615,7 +10615,6 @@ beacons.gvt2.com
 beacons.gcp.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
-storage.googleapis.com
 tracking.epicgames.com
 telemetry-in.battle.net
 bigdata.advmob.cn
