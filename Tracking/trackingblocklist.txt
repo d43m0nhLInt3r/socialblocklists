@@ -3563,10 +3563,8 @@
 0.0.0.0 www-merriam-webster-com.ezoic.net
 0.0.0.0 prod.appnexus.map.fastly.net
 0.0.0.0 brightcove.map.fastly.net
-0.0.0.0 dualstack.brightcove.map.fastly.net
 0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 us-eu.brightcove.map.fastly.net
-0.0.0.0 dualstack.us-eu.brightcove.map.fastly.net
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
