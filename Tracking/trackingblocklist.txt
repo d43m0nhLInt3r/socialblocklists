@@ -16304,7 +16304,6 @@ bulb.76.my
 c.ipaddress.com
 c.microsoft.com
 c.newsinc.com
-c.paypal.com
 c.wort-suche.com
 c.x.oanda.com
 cbs.wondershare.com
