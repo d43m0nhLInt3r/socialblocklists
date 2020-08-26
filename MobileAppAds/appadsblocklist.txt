@@ -416,7 +416,6 @@ intellitxt.com
 intermarkets.net
 interseek.si
 ir-na.amazon-adsystem.com
-js.braintreegateway.com
 js.stripe.com
 juicyads.com
 kau.li
