@@ -35,3 +35,9 @@
 (^|\.)muscdn\.com$
 
 (^|\.)musical\.ly$
+
+(^|\.)tiktok\.com$
+
+(^|\.)tiktok\.org$
+
+(^|\.)tiktokcdn\.com$
