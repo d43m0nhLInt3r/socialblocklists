@@ -110,7 +110,6 @@ ad.samsungadhub.com
 ads.samsungads.com
 amauthprd.samsungcloudsolution.com
 api-hub.samsungyosemite.com
-#auth.samsungosp.com // if blocked, samsung accounts will fail to authenticate
 az43064.vo.msecnd.net
 cdn.samsungcloudsolution.net
 configprd.samsungcloudsolution.net
