@@ -627,7 +627,6 @@ stats.appwork.org
 stats.g.doubleclick.net
 stats.gc.apple.com
 stjjp.msn.com
-stripecdn.map.fastly.net
 stripensrq.global.ssl.fastly.net
 supersonicads-a.akamaihd.net
 supersonicads.com
