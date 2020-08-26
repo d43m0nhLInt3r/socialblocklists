@@ -158,7 +158,6 @@ samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-#samsungosp.com
 samsungqbe.com
 samsungrm.net
 sas.samsungcloudsolution.com
