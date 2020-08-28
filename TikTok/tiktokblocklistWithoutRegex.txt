@@ -713,5 +713,6 @@
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16-sg.muscdn.com
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 ibytedtos.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 bytedance.com
