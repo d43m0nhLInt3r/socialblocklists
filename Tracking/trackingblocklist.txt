@@ -3316,7 +3316,6 @@
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 static.dable.io.edgekey.net
-0.0.0.0 mi.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 sp.escapicon.net
 0.0.0.0 www.sp.escapicon.net
