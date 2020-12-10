@@ -33,11 +33,15 @@
 0.0.0.0 jaguar-prod.snapchat.com
 0.0.0.0 st.sc-jpl.com
 0.0.0.0 gtq.sct.sc-prod.net
+0.0.0.0 gtq6.sct.sc-prod.net
 0.0.0.0 am-prod.sc-jpl.com
 0.0.0.0 s.sc-cdn.net
 0.0.0.0 cf-st.sc-cdn.net
 0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 images.bitmoji.com
 0.0.0.0 us-east1-aws.api.snapchat.com
 0.0.0.0 api.snapchat.com
@@ -66,6 +70,7 @@
 0.0.0.0 use.adserver.snapads.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app.snapchat.com
 0.0.0.0 aws.api.snapchat.com
 0.0.0.0 cf-st.sc-cdn.net
@@ -77,6 +82,10 @@
 0.0.0.0 us-central1-gcp.api.snapchat.com
 0.0.0.0 webattachments.snapchat.com
 0.0.0.0 d3cwhzzyyewihk.cloudfront.net
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 internal-api.snapkit.com
+0.0.0.0 eu-west1-aws.duplex.sc-gw.com
+0.0.0.0 snapchat-proxy.appspot.com
 
 # Location?
 0.0.0.0 loca.sc-jpl.com
