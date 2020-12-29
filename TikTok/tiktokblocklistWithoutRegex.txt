@@ -716,3 +716,8 @@
 0.0.0.0 ibytedtos.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 bytedance.com
+0.0.0.0 p77-sg.tiktokcdn.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
+0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 v58.tiktokcdn.com
+0.0.0.0 p77-sign-sg.tiktokcdn.com
