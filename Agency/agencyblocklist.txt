@@ -43144,7 +43144,6 @@ soosooka.com
 sophus3.com
 sortable.com
 sovrn.com
-spclient.wg.spotify.com #Spotify tracking ads
 specificclick.net
 speedshiftmedia.com
 spendandraise.org #Digital Window
@@ -44258,8 +44257,6 @@ audiencemanager.de #Nano Interactive
 audiencescoring.com #Adobe
 audiencesettlement.com #Adobe
 audiencesharing.com #Adobe
-audio-ec.spotify.com #Spotify tracking ads
-audio2.spotify.com #Spotify tracking ads
 auditorius.ru #iAge
 auditude.com
 audtd.com #iAge
@@ -55520,7 +55517,6 @@ soosooka.com
 sophus3.com
 sortable.com
 sovrn.com
-spclient.wg.spotify.com #Spotify tracking ads
 specificclick.net
 speedshiftmedia.com
 spendandraise.org #Digital Window
@@ -56085,4 +56081,3 @@ zxad.com #Zanox
 zxad.net #Zanox
 zylpfood.com
 zzword.com #Adobe
-
