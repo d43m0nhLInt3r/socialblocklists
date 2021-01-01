@@ -86,6 +86,7 @@
 0.0.0.0 internal-api.snapkit.com
 0.0.0.0 eu-west1-aws.duplex.sc-gw.com
 0.0.0.0 snapchat-proxy.appspot.com
+0.0.0.0 tr.snapchat.com
 
 # Location?
 0.0.0.0 loca.sc-jpl.com
