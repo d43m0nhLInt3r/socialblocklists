@@ -1,4 +1,5 @@
 # fork of https://github.com/kboghdady/youTube_ads_4_pi-hole/blob/master/black.list 20210105
+# this blocklist can cause issues with loading videos and its possible that ads can be displayed
 r1---sn-25ge7ns7.googlevideo.com
 r1---sn-25ge7nsd.googlevideo.com
 r1---sn-25ge7nse.googlevideo.com
