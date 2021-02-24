@@ -2,8 +2,6 @@
 # Forked from outdated list created by https://github.com/gieljnssns/Social-media-Blocklists
 # Updated 24th February 2021
 
-
-
 0.0.0.0 api.instagram.com
 0.0.0.0	black.ish.instagram.com
 0.0.0.0	i.instagram.com
