@@ -652,8 +652,6 @@
 0.0.0.0 fbcdn-video-o-a.akamaihd.net
 0.0.0.0 fbcdn-video-p-a.akamaihd.net
 0.0.0.0 fbcdn-vthumb-a.akamaihd.net
-0.0.0.0 fbcdn.com
-0.0.0.0 fbcdn.net
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 fbsbx.com
 0.0.0.0 fbstatic-a.akamaihd.net
