@@ -666,7 +666,6 @@
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 0.0.0.0 hi-in.facebook.com
-0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 investor.fb.com
 0.0.0.0 inyour-slb-01-05-ash3.facebook.com
 0.0.0.0 it-it.facebook.com
