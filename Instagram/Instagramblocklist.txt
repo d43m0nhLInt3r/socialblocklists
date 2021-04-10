@@ -3,7 +3,7 @@
 # Updated 10th April 2021
 0.0.0.0 api.instagram.com
 0.0.0.0	black.ish.instagram.com
-i.instagram.com
+0.0.0.0 i.instagram.com
 0.0.0.0	instagram-shv-01-ams2.fbcdn.net
 0.0.0.0	instagram-shv-01-ams3.fbcdn.net
 0.0.0.0	instagram-shv-01-ash5.fbcdn.net
