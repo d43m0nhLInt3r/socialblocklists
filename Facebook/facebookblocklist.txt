@@ -1,3 +1,7 @@
+# blocklist for Facebook
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
+# Updated 27th March 2021
+
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-act.channel.facebook.com
@@ -305,6 +309,7 @@
 0.0.0.0 beta-shv-03-lla1.facebook.com
 0.0.0.0 beta-shv-04-prn2.facebook.com
 0.0.0.0 beta-shv-09-frc1.facebook.com
+0.0.0.0 beta.facebook.com
 0.0.0.0 beta.vvv.facebook.com
 0.0.0.0 betanet-shv-03-atn1.facebook.com
 0.0.0.0 betanet-shv-03-lla1.facebook.com
@@ -616,9 +621,6 @@
 0.0.0.0 external.ak.fbcdn.net
 0.0.0.0 external.fsjc1-2.fna.fbcdn.net
 0.0.0.0 facebook-web-clients.appspot.com
-0.0.0.0 facebook.com
-0.0.0.0 facebook.de
-0.0.0.0 facebook.fr
 0.0.0.0 fb.com
 0.0.0.0 fb.me
 0.0.0.0 fbcdn-photos-a.akamaihd.net
@@ -650,8 +652,6 @@
 0.0.0.0 fbcdn-video-o-a.akamaihd.net
 0.0.0.0 fbcdn-video-p-a.akamaihd.net
 0.0.0.0 fbcdn-vthumb-a.akamaihd.net
-0.0.0.0 fbcdn.com
-0.0.0.0 fbcdn.net
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 fbsbx.com
 0.0.0.0 fbstatic-a.akamaihd.net
@@ -676,6 +676,7 @@
 0.0.0.0 mqtt.vvv.facebook.com
 0.0.0.0 ncontent.xx.fbcdn.net
 0.0.0.0 newsroom.fb.com
+0.0.0.0 nl-nl.facebook.com
 0.0.0.0 orcart.facebook.com
 0.0.0.0 origincache-ai-01-05-ash3.fbcdn.net
 0.0.0.0 origincache-ash.t.fbcdn.net
@@ -712,6 +713,8 @@
 0.0.0.0 photos-g.ak.fbcdn.net
 0.0.0.0 photos-h.ak.fbcdn.net
 0.0.0.0 pixel.facebook.com
+0.0.0.0 pl-pl.facebook.com
+0.0.0.0 prod.facebook.com
 0.0.0.0 profile-a-atl.xx.fbcdn.net
 0.0.0.0 profile-a-dfw.xx.fbcdn.net
 0.0.0.0 profile-a-iad.xx.fbcdn.net
