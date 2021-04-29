@@ -1,11 +1,9 @@
-# Pi-Hole blocklist for Instagram and it's various domains.
+# Pi-Hole blocklist for Instagram and it's various domains. https://github.com/JacobOB1234
 # Forked from outdated list created by https://github.com/gieljnssns/Social-media-Blocklists
-# Contributors: https://github.com/JacobOB1234
-# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # Updated 10th April 2021
 0.0.0.0 api.instagram.com
 0.0.0.0	black.ish.instagram.com
-0.0.0.0 i.instagram.com
+0.0.0.0	i.instagram.com
 0.0.0.0	instagram-shv-01-ams2.fbcdn.net
 0.0.0.0	instagram-shv-01-ams3.fbcdn.net
 0.0.0.0	instagram-shv-01-ash5.fbcdn.net
@@ -81,3 +79,8 @@
 0.0.0.0 instagram.fncl1-1.fna.fbcdn.net
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-lcy1-1.cdninstagram.com
+scontent-man2-1.cdninstagram.com
+scontent-lcy1-1.cdninstagram.com
+i.instagram.com
+edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
