@@ -1,0 +1,22 @@
+# Pi-Hole blocklist for Twitter and it's various domains. https://github.com/JacobOB1234
+# Updated 30th April 2021
+0.0.0.0 abs-0.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 api.twitter.com
+0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 developers.twitter.com
+0.0.0.0 fonts.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 twitter.co.uk
+0.0.0.0 www.twitter.co.uk
+0.0.0.0 twitter.com.au
+0.0.0.0 www.twitter.com.au
+0.0.0.0 twitter.co
+0.0.0.0 www.twitter.co
+0.0.0.0 api-stream.twitter.com
+0.0.0.0 ton.twimg.com
