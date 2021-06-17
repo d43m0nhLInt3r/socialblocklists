@@ -75,7 +75,6 @@
 0.0.0.0 scontent-lht6-2.cdninstagram.com
 0.0.0.0 scontent-lhr8-1.cdninstagram.com
 0.0.0.0 scontent-lhr8-2.cdninstagram.com
-0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 edge-chat.instagram.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
@@ -85,3 +84,4 @@
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-lcy1-1.cdninstagram.com
 #0.0.0.0 edge-mqtt.facebook.com is breaking Facebook groups and posts and Messenger
+#0.0.0.0 mqtt-mini.facebook.com
