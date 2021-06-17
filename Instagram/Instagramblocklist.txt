@@ -1,6 +1,9 @@
-# Pi-Hole blocklist for Instagram and it's various domains. https://github.com/JacobOB1234
+# Pi-Hole blocklist for Instagram and it's various domains.
 # Forked from outdated list created by https://github.com/gieljnssns/Social-media-Blocklists
+# Contributors: https://github.com/JacobOB1234
+# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # Updated 1st June 2021
+
 0.0.0.0 api.instagram.com
 0.0.0.0	black.ish.instagram.com
 0.0.0.0	i.instagram.com
@@ -81,4 +84,4 @@
 0.0.0.0 scontent-lcy1-1.cdninstagram.com
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-lcy1-1.cdninstagram.com
-0.0.0.0 edge-mqtt.facebook.com
+#0.0.0.0 edge-mqtt.facebook.com is breaking Facebook groups and posts and Messenger
