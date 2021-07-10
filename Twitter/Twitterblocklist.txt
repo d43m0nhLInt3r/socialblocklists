@@ -1,8 +1,5 @@
-# Pi-Hole blocklist for Twitter and it's various domains.
-# Contributors: https://github.com/JacobOB1234
-# Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
-# Updated 1st June 2021
-
+# Pi-Hole blocklist for Twitter and it's various domains. https://github.com/JacobOB1234
+# Updated 1oth July 2021
 0.0.0.0 abs-0.twimg.com
 0.0.0.0 abs.twimg.com
 0.0.0.0 api.twitter.com
@@ -27,3 +24,5 @@
 0.0.0.0 api-20-0-0.twitter.com
 0.0.0.0 video.twimg.com
 0.0.0.0 na.glbtls.t.co
+0.0.0.0 na.albtls.t.co
+0.0.0.0 probe.twitter.com
