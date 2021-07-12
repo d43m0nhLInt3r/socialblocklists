@@ -65,7 +65,6 @@
 0.0.0.0	scontent.cdninstagram.com
 0.0.0.0	telegraph-ash.instagram.com
 0.0.0.0	white.ish.instagram.com
-0.0.0.0	www.instagram.com
 0.0.0.0	cdninstagram.com
 0.0.0.0 scontent-lht6-1.xx.fbcdn.net
 0.0.0.0 scontent-lht6-2.xx.fbcdn.net
@@ -79,8 +78,6 @@
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 instagram.fncl1-1.fna.fbcdn.net
-0.0.0.0 scontent-man2-1.cdninstagram.com
-0.0.0.0 scontent-lcy1-1.cdninstagram.com
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-lcy1-1.cdninstagram.com
 #0.0.0.0 edge-mqtt.facebook.com is breaking Facebook groups and posts and Messenger
