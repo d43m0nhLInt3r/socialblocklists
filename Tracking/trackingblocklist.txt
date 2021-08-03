@@ -1,6 +1,6 @@
 # This blocklist blocks tracking domains
 #
-# Date: 15 April 2020 13:11:00 (UTC)
+# Date: 03 Juli 2021 18:11:00 (UTC)
 # Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
@@ -10569,10 +10569,6 @@ spade.twitch.tv
 chatenabled.mail.google.com
 tracking.finanzen.net
 advertising.amazon.de
-ipchicken.com
-whatismyipaddress.com
-bot.whatismyipaddress.com
-www.ipchicken.com
 predictivdisplay.com
 ero-advertising.com
 whatsyourflower.com
