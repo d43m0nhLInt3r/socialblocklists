@@ -1,6 +1,6 @@
 # This blocklist blocks tracking domains
 #
-# Date: 03 Juli 2021 18:11:00 (UTC)
+# Date: 26 November 2021 12:40:00 (UTC)
 # Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
@@ -24903,7 +24903,6 @@ bluevoice.us
 blutonic-ads.com #bluTonic
 blutonic.net #bluTonic
 bluuadd.com #Smaato
-boards.greenhouse.io #Greenhouse
 bolimubei.com #Advertising
 bombora.com
 bongacash.com
