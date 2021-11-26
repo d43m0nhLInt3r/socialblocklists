@@ -415,7 +415,6 @@ intellitxt.com
 intermarkets.net
 interseek.si
 ir-na.amazon-adsystem.com
-js.stripe.com
 juicyads.com
 kau.li
 ketads.com
@@ -450,8 +449,6 @@ logs.locarta.co
 lps.innogames.com
 lps.innogamescdn.com
 m.quantcount.com
-m.stripe.com
-m.stripe.network
 m2pub.com
 mads.com
 madsone.com
