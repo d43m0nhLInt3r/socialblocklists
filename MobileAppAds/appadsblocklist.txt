@@ -1,6 +1,6 @@
 # This blocklist blocks Mobile App Ads Traffic
 #
-# Date: 15 April 2020 13:11:00 (UTC)
+# Date: 23 December 2021 16:02:15 (UTC)
 # Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
@@ -572,7 +572,6 @@ revsci.net
 rewarded-video.fyber.com
 rink.hockeyapp.net
 rnmd.net
-rt.360dialog.io
 rt.applovin.com
 rtbpop.com
 rubiconproject.com
@@ -727,7 +726,6 @@ zumobi.com
 zwaar.org
 service.miyuki.mobi
 console.miyuki.mobi
-sdk.hockeyapp.net
 www.360dialog.com
 rt.360dialog.io
 collect.tealiumiq.com
@@ -735,30 +733,19 @@ datacloud.tealiumiq.com
 my.tealiumiq.com
 w.usabilla.com
 www.mobilekeyservice.com
-app-measurement.com
 my.mobfox.com
 alogs.starbolt.io
 alkutbay.starbolt.io
-alkutbay.starbolt.io
-sdk.starbolt.io
 sdk.starbolt.io
 static.starbolt.io
-static.starbolt.io
 dm.starbolt.io
-dm.starbolt.io
-z.moatads.com
 tracker.mtrtb.com
-config.inmobi.com
 config.inmobi.cn
 dock.inmobi.com
-telemetry.sdk.inmobi.com
 www.inmobi.com
 sdkm.w.inmobi.com
-sdktm.w.inmobi.com
 crash-metrics.sdk.inmobi.com
 i.l.inmobidnc.net
-i.w.inmobi.com
-inmobi.com
 tml.clmbtech.com
 ade.clmbtech.com
 ase.clmbtech.com
