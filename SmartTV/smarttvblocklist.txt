@@ -1,6 +1,6 @@
 # This blocklist blocks SmartTV Traffic
 #
-# Date: 15 April 2020 13:11:00 (UTC)
+# Date: 23 December 2021 17:10:17 (UTC)
 # Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
@@ -116,7 +116,6 @@ configprd.samsungcloudsolution.net
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 cpu.samsungelectronics.com
 d179kwmlpc4o47.cloudfront.net
-d179kwmlpc4o47.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d2tnx644ijgq6i.cloudfront.net
 d3mjsomixevyw7.cloudfront.net
@@ -180,7 +179,6 @@ zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 vd.contents.prod.eu.s3.amazonaws.com
-log-ingestion-eu.samsungacr.com
 otn.samsungcloudcdn.com
 
 
@@ -229,7 +227,6 @@ advertising.com
 api.nfl.com
 cdn.smartclip.net
 cdns-content.dzcdn.net
-cert-test.sandbox.google.com
 database01p.anixe.net
 de.ioam.de
 googleads.g.doubleclick.net
