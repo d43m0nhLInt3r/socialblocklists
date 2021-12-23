@@ -1,6 +1,6 @@
 # This blocklist blocks the MiFit / Xiaomi traffic
 #
-# Date: 15 April 2020 13:11:00 (UTC)
+# Date: 23 December 2021 17:08:40 (UTC)
 # Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MiFitXiaomi.txt
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
