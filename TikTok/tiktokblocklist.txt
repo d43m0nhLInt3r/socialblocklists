@@ -9,6 +9,7 @@
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.org
 0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-us.com
 0.0.0.0 tiktokv.com
 0.0.0.0 muscdn.com
 0.0.0.0 musical.ly
@@ -41,3 +42,9 @@
 (^|\.)tiktok\.org$
 
 (^|\.)tiktokcdn\.com$
+
+(\.|^)ttlivecdn\.com$
+
+(\.|^)tiktokv\.com$
+
+(\.|^)tiktokcdn-us\.com$
