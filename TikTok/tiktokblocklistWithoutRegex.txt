@@ -825,3 +825,17 @@
 0.0.0.0	lf16-tiktok-web.ttwstatic.com
 0.0.0.0	pull-a16-tt01.fcdn.us.tiktokv.com.sera.local
 0.0.0.0	oec22-normal-useast1a.tiktokv.com
+0.0.0.0	v16-cla.tiktokcdn.com.edgesuite.net
+0.0.0.0	v16-cla.tiktokcdn.com
+0.0.0.0	log-tiktok.byteoversea.net
+0.0.0.0	webcast16-ws.tiktokv.com.edgekey.net
+0.0.0.0	webcast16-ws.tiktokv.com
+0.0.0.0	webcast22-ws.tiktokv.com
+0.0.0.0	webcast22-normal.tiktokv.com
+0.0.0.0	webcast16-normal.tiktokv.com.edgekey.net
+0.0.0.0	webcast16-normal.tiktokv.com
+0.0.0.0	api-core.tiktokv.com.edgekey.net
+0.0.0.0	api-normal.tiktokv.com.edgekey.net
+0.0.0.0	api-core.tiktokv.com
+0.0.0.0	api-normal.tiktokv.com
+0.0.0.0	lf19-gecko-source.tiktokcdn.com
