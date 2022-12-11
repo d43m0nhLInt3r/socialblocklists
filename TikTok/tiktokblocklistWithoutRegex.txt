@@ -839,3 +839,4 @@
 0.0.0.0	api-core.tiktokv.com
 0.0.0.0	api-normal.tiktokv.com
 0.0.0.0	lf19-gecko-source.tiktokcdn.com
+0.0.0.0	tnc16-platform-useast1a.tiktokv.com.edgekey.net
