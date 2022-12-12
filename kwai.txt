@@ -81,3 +81,8 @@
 0.0.0.0 www.cdnsg.kwai.com
 0.0.0.0 incentive.region.kwai.com.akadns.net
 0.0.0.0 incentive.kwai.com
+0.0.0.0 k-ulog.kwai-pro.com.edgesuite.net	
+0.0.0.0 d16-yoda.kwai.net	
+0.0.0.0 d16-yoda.kwai.net.edgesuite.net	
+0.0.0.0 d1-yoda.kwai.net	
+0.0.0.0 d1-yoda.kwai.net.cdn.dnsv1.com	
