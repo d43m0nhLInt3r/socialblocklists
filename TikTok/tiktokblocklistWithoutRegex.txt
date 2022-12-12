@@ -840,3 +840,6 @@
 0.0.0.0	api-normal.tiktokv.com
 0.0.0.0	lf19-gecko-source.tiktokcdn.com
 0.0.0.0	tnc16-platform-useast1a.tiktokv.com.edgekey.net
+0.0.0.0 log16-normal-useast1a.tiktokv.com.edgekey.net
+0.0.0.0 p16-sign-va.tiktokcdn.com.akamaized.net
+0.0.0.0 tnc16-platform-useast1a.tiktokv.com.edgekey.net
