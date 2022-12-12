@@ -72,3 +72,12 @@
 0.0.0.0	aws-pic.kwai.net
 0.0.0.0	g-api.sg.kwaipros.com
 0.0.0.0	g-api.kwaipros.com
+0.0.0.0 g-ulog.sg.kwaipros.com
+0.0.0.0 g-ulog.kwaipros.com.akadns.net
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 g-ulog.sg.kwaipros.com
+0.0.0.0 g-ulog.kwaipros.com.akadns.net
+0.0.0.0 g-ulogl2.kwaipros.com
+0.0.0.0 www.cdnsg.kwai.com
+0.0.0.0 incentive.region.kwai.com.akadns.net
+0.0.0.0 incentive.kwai.com
