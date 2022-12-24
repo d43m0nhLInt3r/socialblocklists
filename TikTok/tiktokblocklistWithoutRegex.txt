@@ -875,6 +875,5 @@
 0.0.0.0 p16-sign-sg.tiktokcdn.com.akamaized.net
 0.0.0.0 jsb16-normal-useast1a.tiktokv.com.edgekey.net
 0.0.0.0 lf77-gecko-source.tiktokcdn.com
-0.0.0.0 *.tiktokv.com.edgekey.net
-0.0.0.0 *.tiktokcdn.com
-0.0.0.0 *.tiktokv.com
+0.0.0.0 widget-va.tiktokv.com.edgekey.net
+0.0.0.0 widget-va.tiktokv.com
