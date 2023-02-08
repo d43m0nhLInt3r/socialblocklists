@@ -905,3 +905,5 @@
 0.0.0.0 pull-f5-va01.tiktokcdn.com.c.bytetcdn.com
 0.0.0.0 search22-normal-c-alisg.tiktokv.com.dc.local
 0.0.0.0 hotapi16-normal-alisg.tiktokv.com.edgekey.net
+0.0.0.0 webcast16-normal-iquic-useast1a.tiktokv.com
+0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
