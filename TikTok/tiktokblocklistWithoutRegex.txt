@@ -907,3 +907,8 @@
 0.0.0.0 hotapi16-normal-alisg.tiktokv.com.edgekey.net
 0.0.0.0 webcast16-normal-iquic-useast1a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
+0.0.0.0 webcast16-normal-iquic-useast1a.tiktokv.com
+0.0.0.0 mssdk16-normal-useast1a.tiktokv.com.edgekey.net
+0.0.0.0 v77e.tiktokcdn.com
+0.0.0.0 rtlog16-normal-useast1a.tiktokv.com.edgekey.net
+0.0.0.0 v19-us.tiktokcdn.com
