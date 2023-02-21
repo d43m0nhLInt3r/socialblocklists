@@ -912,3 +912,5 @@
 0.0.0.0 v77e.tiktokcdn.com
 0.0.0.0 rtlog16-normal-useast1a.tiktokv.com.edgekey.net
 0.0.0.0 v19-us.tiktokcdn.com
+0.0.0.0 p77-sign-sg-lite.tiktokcdn.com	
+0.0.0.0 v39-dynamic-fra1.tiktokcdn.com	
