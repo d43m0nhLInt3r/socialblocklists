@@ -982,3 +982,13 @@
 0.0.0.0	pull-flv-l10-va01.tiktokcdn.com.dc.local
 0.0.0.0	push-rtmp-l10-va01.tiktokcdn.com.dc.local
 0.0.0.0 lf16-tiktok-common.ttwstatic.com
+0.0.0.0 sf16m-geckocdn.tiktokcdn.com
+0.0.0.0 sf16m-geckocdn.tiktokcdn.com.akamaized.net
+0.0.0.0 pitaya-task-va.tiktokv.com
+0.0.0.0 api16-normal-useast2a.tiktokv.com
+0.0.0.0 api16-normal-useast1a.tiktokv.com
+0.0.0.0 api16-core-useast2a.tiktokv.com
+0.0.0.0 api16-normal-alisg.tiktokv.com
+0.0.0.0 api16-core-alisg.tiktokv.com
+0.0.0.0 v16m-h3.tiktokcdn.com
+0.0.0.0 search19-normal-c-useast1a.tiktokv.com
