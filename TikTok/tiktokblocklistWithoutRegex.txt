@@ -992,3 +992,16 @@
 0.0.0.0 api16-core-alisg.tiktokv.com
 0.0.0.0 v16m-h3.tiktokcdn.com
 0.0.0.0 search19-normal-c-useast1a.tiktokv.com
+0.0.0.0 pull-flv-f77-tt01.fcdn.us.tiktokv.com
+0.0.0.0 p16-sign-useast2a.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-va01.tiktokcdn.com.akamaized.net
+0.0.0.0 jsb31-normal-alisg.tiktokv.com
+0.0.0.0 sf16-geckocdn.tiktokcdn.com
+0.0.0.0 rtlog16-normal-useast1a.tiktokv.com.dbahr.local
+0.0.0.0 pitaya-sg.tiktokv.com.dbahr.local
+0.0.0.0 gecko31-normal-alisg.tiktokv.com
+0.0.0.0 api22-core-c-useast1a.tiktokv.com.dbahr.local
+0.0.0.0 libra-va.tiktokv.com.edgekey.net
+
